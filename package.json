@@ -1,0 +1,31 @@
+{
+  "name": "comments-app",
+  "version": "1.0.0",
+  "license": "ISC",
+  "description": "Sample of CommentBoard by reactJs and NodeJs.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0",
+    "server": "^1.0.0-beta.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivcode86/CommentBoard.git"
+  },
+  "keywords": [
+    "react",
+    "comment",
+    "example"
+  ],
+  "author": "Glaucia Lemos",
+  "bugs": {
+    "url": ""
+  }
+}
